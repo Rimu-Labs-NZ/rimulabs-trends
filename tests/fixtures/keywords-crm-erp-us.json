@@ -1,0 +1,1657 @@
+[
+  {
+    "type": "keyword",
+    "keyword": "crm",
+    "comparedWith": [
+      "erp"
+    ],
+    "geo": "US",
+    "timeRange": "today 12-m",
+    "searchType": "web",
+    "category": 0,
+    "trendsUrl": "https://trends.google.com/trends/explore?q=crm%2Cerp&geo=US&date=today+12-m",
+    "insights": {
+      "averageInterest": 66.2,
+      "latestInterest": 42,
+      "peakInterest": 100,
+      "peakDate": "2026-07-05",
+      "recentChangePct": -44,
+      "trend": "falling"
+    },
+    "interestOverTime": [
+      {
+        "date": "2025-10-12",
+        "label": "Oct 12 – 18, 2025",
+        "value": 56,
+        "isPartial": false
+      },
+      {
+        "date": "2025-10-19",
+        "label": "Oct 19 – 25, 2025",
+        "value": 52,
+        "isPartial": false
+      },
+      {
+        "date": "2025-10-26",
+        "label": "Oct 26 – Nov 1, 2025",
+        "value": 54,
+        "isPartial": false
+      },
+      {
+        "date": "2025-11-02",
+        "label": "Nov 2 – 8, 2025",
+        "value": 55,
+        "isPartial": false
+      },
+      {
+        "date": "2025-11-09",
+        "label": "Nov 9 – 15, 2025",
+        "value": 58,
+        "isPartial": false
+      },
+      {
+        "date": "2025-11-16",
+        "label": "Nov 16 – 22, 2025",
+        "value": 53,
+        "isPartial": false
+      },
+      {
+        "date": "2025-11-23",
+        "label": "Nov 23 – 29, 2025",
+        "value": 39,
+        "isPartial": false
+      },
+      {
+        "date": "2025-11-30",
+        "label": "Nov 30 – Dec 6, 2025",
+        "value": 57,
+        "isPartial": false
+      },
+      {
+        "date": "2025-12-07",
+        "label": "Dec 7 – 13, 2025",
+        "value": 52,
+        "isPartial": false
+      },
+      {
+        "date": "2025-12-14",
+        "label": "Dec 14 – 20, 2025",
+        "value": 50,
+        "isPartial": false
+      },
+      {
+        "date": "2025-12-21",
+        "label": "Dec 21 – 27, 2025",
+        "value": 35,
+        "isPartial": false
+      },
+      {
+        "date": "2025-12-28",
+        "label": "Dec 28, 2025 – Jan 3, 2026",
+        "value": 39,
+        "isPartial": false
+      },
+      {
+        "date": "2026-01-04",
+        "label": "Jan 4 – 10, 2026",
+        "value": 52,
+        "isPartial": false
+      },
+      {
+        "date": "2026-01-11",
+        "label": "Jan 11 – 17, 2026",
+        "value": 63,
+        "isPartial": false
+      },
+      {
+        "date": "2026-01-18",
+        "label": "Jan 18 – 24, 2026",
+        "value": 62,
+        "isPartial": false
+      },
+      {
+        "date": "2026-01-25",
+        "label": "Jan 25 – 31, 2026",
+        "value": 68,
+        "isPartial": false
+      },
+      {
+        "date": "2026-02-01",
+        "label": "Feb 1 – 7, 2026",
+        "value": 71,
+        "isPartial": false
+      },
+      {
+        "date": "2026-02-08",
+        "label": "Feb 8 – 14, 2026",
+        "value": 75,
+        "isPartial": false
+      },
+      {
+        "date": "2026-02-15",
+        "label": "Feb 15 – 21, 2026",
+        "value": 76,
+        "isPartial": false
+      },
+      {
+        "date": "2026-02-22",
+        "label": "Feb 22 – 28, 2026",
+        "value": 95,
+        "isPartial": false
+      },
+      {
+        "date": "2026-03-01",
+        "label": "Mar 1 – 7, 2026",
+        "value": 82,
+        "isPartial": false
+      },
+      {
+        "date": "2026-03-08",
+        "label": "Mar 8 – 14, 2026",
+        "value": 69,
+        "isPartial": false
+      },
+      {
+        "date": "2026-03-15",
+        "label": "Mar 15 – 21, 2026",
+        "value": 83,
+        "isPartial": false
+      },
+      {
+        "date": "2026-03-22",
+        "label": "Mar 22 – 28, 2026",
+        "value": 74,
+        "isPartial": false
+      },
+      {
+        "date": "2026-03-29",
+        "label": "Mar 29 – Apr 4, 2026",
+        "value": 88,
+        "isPartial": false
+      },
+      {
+        "date": "2026-04-05",
+        "label": "Apr 5 – 11, 2026",
+        "value": 95,
+        "isPartial": false
+      },
+      {
+        "date": "2026-04-12",
+        "label": "Apr 12 – 18, 2026",
+        "value": 96,
+        "isPartial": false
+      },
+      {
+        "date": "2026-04-19",
+        "label": "Apr 19 – 25, 2026",
+        "value": 82,
+        "isPartial": false
+      },
+      {
+        "date": "2026-04-26",
+        "label": "Apr 26 – May 2, 2026",
+        "value": 81,
+        "isPartial": false
+      },
+      {
+        "date": "2026-05-03",
+        "label": "May 3 – 9, 2026",
+        "value": 82,
+        "isPartial": false
+      },
+      {
+        "date": "2026-05-10",
+        "label": "May 10 – 16, 2026",
+        "value": 87,
+        "isPartial": false
+      },
+      {
+        "date": "2026-05-17",
+        "label": "May 17 – 23, 2026",
+        "value": 74,
+        "isPartial": false
+      },
+      {
+        "date": "2026-05-24",
+        "label": "May 24 – 30, 2026",
+        "value": 84,
+        "isPartial": false
+      },
+      {
+        "date": "2026-05-31",
+        "label": "May 31 – Jun 6, 2026",
+        "value": 91,
+        "isPartial": false
+      },
+      {
+        "date": "2026-06-07",
+        "label": "Jun 7 – 13, 2026",
+        "value": 95,
+        "isPartial": false
+      },
+      {
+        "date": "2026-06-14",
+        "label": "Jun 14 – 20, 2026",
+        "value": 97,
+        "isPartial": false
+      },
+      {
+        "date": "2026-06-21",
+        "label": "Jun 21 – 27, 2026",
+        "value": 95,
+        "isPartial": false
+      },
+      {
+        "date": "2026-06-28",
+        "label": "Jun 28 – Jul 4, 2026",
+        "value": 93,
+        "isPartial": false
+      },
+      {
+        "date": "2026-07-05",
+        "label": "Jul 5 – 11, 2026",
+        "value": 100,
+        "isPartial": false
+      },
+      {
+        "date": "2026-07-12",
+        "label": "Jul 12 – 18, 2026",
+        "value": 67,
+        "isPartial": false
+      },
+      {
+        "date": "2026-07-19",
+        "label": "Jul 19 – 25, 2026",
+        "value": 64,
+        "isPartial": false
+      },
+      {
+        "date": "2026-07-26",
+        "label": "Jul 26 – Aug 1, 2026",
+        "value": 57,
+        "isPartial": false
+      },
+      {
+        "date": "2026-08-02",
+        "label": "Aug 2 – 8, 2026",
+        "value": 51,
+        "isPartial": false
+      },
+      {
+        "date": "2026-08-09",
+        "label": "Aug 9 – 15, 2026",
+        "value": 55,
+        "isPartial": false
+      },
+      {
+        "date": "2026-08-16",
+        "label": "Aug 16 – 22, 2026",
+        "value": 48,
+        "isPartial": false
+      },
+      {
+        "date": "2026-08-23",
+        "label": "Aug 23 – 29, 2026",
+        "value": 54,
+        "isPartial": false
+      },
+      {
+        "date": "2026-08-30",
+        "label": "Aug 30 – Sep 5, 2026",
+        "value": 47,
+        "isPartial": false
+      },
+      {
+        "date": "2026-09-06",
+        "label": "Sep 6 – 12, 2026",
+        "value": 43,
+        "isPartial": false
+      },
+      {
+        "date": "2026-09-13",
+        "label": "Sep 13 – 19, 2026",
+        "value": 48,
+        "isPartial": false
+      },
+      {
+        "date": "2026-09-20",
+        "label": "Sep 20 – 26, 2026",
+        "value": 46,
+        "isPartial": false
+      },
+      {
+        "date": "2026-09-27",
+        "label": "Sep 27 – Oct 3, 2026",
+        "value": 38,
+        "isPartial": false
+      },
+      {
+        "date": "2026-10-04",
+        "label": "Oct 4 – 10, 2026",
+        "value": 36,
+        "isPartial": false
+      },
+      {
+        "date": "2026-10-11",
+        "label": "Oct 11 – 17, 2026",
+        "value": 42,
+        "isPartial": false
+      },
+      {
+        "date": "2026-10-18",
+        "label": "Oct 18 – 24, 2026",
+        "value": 22,
+        "isPartial": true
+      }
+    ],
+    "interestByRegion": [
+      {
+        "geoCode": "US-MD",
+        "geoName": "Maryland",
+        "value": 71
+      },
+      {
+        "geoCode": "US-KS",
+        "geoName": "Kansas",
+        "value": 70
+      },
+      {
+        "geoCode": "US-NJ",
+        "geoName": "New Jersey",
+        "value": 69
+      },
+      {
+        "geoCode": "US-FL",
+        "geoName": "Florida",
+        "value": 69
+      },
+      {
+        "geoCode": "US-NV",
+        "geoName": "Nevada",
+        "value": 69
+      },
+      {
+        "geoCode": "US-AL",
+        "geoName": "Alabama",
+        "value": 69
+      },
+      {
+        "geoCode": "US-CO",
+        "geoName": "Colorado",
+        "value": 68
+      },
+      {
+        "geoCode": "US-MA",
+        "geoName": "Massachusetts",
+        "value": 68
+      },
+      {
+        "geoCode": "US-WA",
+        "geoName": "Washington",
+        "value": 68
+      },
+      {
+        "geoCode": "US-AZ",
+        "geoName": "Arizona",
+        "value": 68
+      },
+      {
+        "geoCode": "US-OR",
+        "geoName": "Oregon",
+        "value": 68
+      },
+      {
+        "geoCode": "US-HI",
+        "geoName": "Hawaii",
+        "value": 68
+      },
+      {
+        "geoCode": "US-CA",
+        "geoName": "California",
+        "value": 67
+      },
+      {
+        "geoCode": "US-CT",
+        "geoName": "Connecticut",
+        "value": 67
+      },
+      {
+        "geoCode": "US-NC",
+        "geoName": "North Carolina",
+        "value": 67
+      },
+      {
+        "geoCode": "US-OK",
+        "geoName": "Oklahoma",
+        "value": 67
+      },
+      {
+        "geoCode": "US-GA",
+        "geoName": "Georgia",
+        "value": 66
+      },
+      {
+        "geoCode": "US-VA",
+        "geoName": "Virginia",
+        "value": 66
+      },
+      {
+        "geoCode": "US-TN",
+        "geoName": "Tennessee",
+        "value": 66
+      },
+      {
+        "geoCode": "US-DE",
+        "geoName": "Delaware",
+        "value": 66
+      },
+      {
+        "geoCode": "US-SC",
+        "geoName": "South Carolina",
+        "value": 66
+      },
+      {
+        "geoCode": "US-IN",
+        "geoName": "Indiana",
+        "value": 66
+      },
+      {
+        "geoCode": "US-NY",
+        "geoName": "New York",
+        "value": 65
+      },
+      {
+        "geoCode": "US-TX",
+        "geoName": "Texas",
+        "value": 65
+      },
+      {
+        "geoCode": "US-LA",
+        "geoName": "Louisiana",
+        "value": 65
+      },
+      {
+        "geoCode": "US-PA",
+        "geoName": "Pennsylvania",
+        "value": 65
+      },
+      {
+        "geoCode": "US-MO",
+        "geoName": "Missouri",
+        "value": 65
+      },
+      {
+        "geoCode": "US-KY",
+        "geoName": "Kentucky",
+        "value": 65
+      },
+      {
+        "geoCode": "US-DC",
+        "geoName": "District of Columbia",
+        "value": 64
+      },
+      {
+        "geoCode": "US-IL",
+        "geoName": "Illinois",
+        "value": 64
+      },
+      {
+        "geoCode": "US-NE",
+        "geoName": "Nebraska",
+        "value": 64
+      },
+      {
+        "geoCode": "US-SD",
+        "geoName": "South Dakota",
+        "value": 64
+      },
+      {
+        "geoCode": "US-IA",
+        "geoName": "Iowa",
+        "value": 64
+      },
+      {
+        "geoCode": "US-NM",
+        "geoName": "New Mexico",
+        "value": 64
+      },
+      {
+        "geoCode": "US-MS",
+        "geoName": "Mississippi",
+        "value": 64
+      },
+      {
+        "geoCode": "US-ND",
+        "geoName": "North Dakota",
+        "value": 64
+      },
+      {
+        "geoCode": "US-WY",
+        "geoName": "Wyoming",
+        "value": 63
+      },
+      {
+        "geoCode": "US-UT",
+        "geoName": "Utah",
+        "value": 63
+      },
+      {
+        "geoCode": "US-MI",
+        "geoName": "Michigan",
+        "value": 63
+      },
+      {
+        "geoCode": "US-OH",
+        "geoName": "Ohio",
+        "value": 63
+      },
+      {
+        "geoCode": "US-VT",
+        "geoName": "Vermont",
+        "value": 63
+      },
+      {
+        "geoCode": "US-ID",
+        "geoName": "Idaho",
+        "value": 63
+      },
+      {
+        "geoCode": "US-WV",
+        "geoName": "West Virginia",
+        "value": 63
+      },
+      {
+        "geoCode": "US-AR",
+        "geoName": "Arkansas",
+        "value": 62
+      },
+      {
+        "geoCode": "US-ME",
+        "geoName": "Maine",
+        "value": 62
+      },
+      {
+        "geoCode": "US-MT",
+        "geoName": "Montana",
+        "value": 62
+      },
+      {
+        "geoCode": "US-MN",
+        "geoName": "Minnesota",
+        "value": 61
+      },
+      {
+        "geoCode": "US-NH",
+        "geoName": "New Hampshire",
+        "value": 61
+      },
+      {
+        "geoCode": "US-RI",
+        "geoName": "Rhode Island",
+        "value": 60
+      },
+      {
+        "geoCode": "US-WI",
+        "geoName": "Wisconsin",
+        "value": 60
+      },
+      {
+        "geoCode": "US-AK",
+        "geoName": "Alaska",
+        "value": 60
+      }
+    ],
+    "relatedQueries": {
+      "top": [
+        {
+          "query": "what is crm",
+          "value": 100,
+          "label": "100"
+        },
+        {
+          "query": "crm software",
+          "value": 87,
+          "label": "87"
+        },
+        {
+          "query": "crm stock",
+          "value": 85,
+          "label": "85"
+        },
+        {
+          "query": "what is a crm",
+          "value": 49,
+          "label": "49"
+        },
+        {
+          "query": "free crm",
+          "value": 46,
+          "label": "46"
+        },
+        {
+          "query": "salesforce",
+          "value": 44,
+          "label": "44"
+        },
+        {
+          "query": "salesforce crm",
+          "value": 44,
+          "label": "44"
+        },
+        {
+          "query": "hubspot",
+          "value": 43,
+          "label": "43"
+        },
+        {
+          "query": "hubspot crm",
+          "value": 42,
+          "label": "42"
+        },
+        {
+          "query": "crm news",
+          "value": 42,
+          "label": "42"
+        },
+        {
+          "query": "zoho",
+          "value": 42,
+          "label": "42"
+        },
+        {
+          "query": "zoho crm",
+          "value": 41,
+          "label": "41"
+        },
+        {
+          "query": "crm system",
+          "value": 37,
+          "label": "37"
+        },
+        {
+          "query": "crm tools",
+          "value": 36,
+          "label": "36"
+        },
+        {
+          "query": "crm meaning",
+          "value": 34,
+          "label": "34"
+        },
+        {
+          "query": "crm platform",
+          "value": 28,
+          "label": "28"
+        },
+        {
+          "query": "best crm software",
+          "value": 27,
+          "label": "27"
+        },
+        {
+          "query": "crm systems",
+          "value": 26,
+          "label": "26"
+        },
+        {
+          "query": "crm platforms",
+          "value": 23,
+          "label": "23"
+        },
+        {
+          "query": "crm stock price",
+          "value": 23,
+          "label": "23"
+        },
+        {
+          "query": "microsoft crm",
+          "value": 21,
+          "label": "21"
+        },
+        {
+          "query": "crm for small business",
+          "value": 19,
+          "label": "19"
+        },
+        {
+          "query": "crm definition",
+          "value": 18,
+          "label": "18"
+        },
+        {
+          "query": "what is crm software",
+          "value": 14,
+          "label": "14"
+        },
+        {
+          "query": "crm tool",
+          "value": 14,
+          "label": "14"
+        }
+      ],
+      "rising": [
+        {
+          "query": "spcx stock",
+          "value": 11350,
+          "label": "Breakout"
+        },
+        {
+          "query": "sndk stock",
+          "value": 7400,
+          "label": "Breakout"
+        },
+        {
+          "query": "lidl near me",
+          "value": 4900,
+          "label": "+4,900%"
+        },
+        {
+          "query": "crm system proficiency",
+          "value": 350,
+          "label": "+350%"
+        },
+        {
+          "query": "now stock",
+          "value": 250,
+          "label": "+250%"
+        },
+        {
+          "query": "crm news",
+          "value": 250,
+          "label": "+250%"
+        },
+        {
+          "query": "best crm for small businesses",
+          "value": 250,
+          "label": "+250%"
+        },
+        {
+          "query": "close crm",
+          "value": 200,
+          "label": "+200%"
+        },
+        {
+          "query": "hubspot crm pricing",
+          "value": 200,
+          "label": "+200%"
+        },
+        {
+          "query": "pipeline crm",
+          "value": 180,
+          "label": "+180%"
+        },
+        {
+          "query": "crm platform",
+          "value": 110,
+          "label": "+110%"
+        },
+        {
+          "query": "best crm for small business",
+          "value": 100,
+          "label": "+100%"
+        },
+        {
+          "query": "hubspot crm",
+          "value": 90,
+          "label": "+90%"
+        },
+        {
+          "query": "hubspot",
+          "value": 90,
+          "label": "+90%"
+        },
+        {
+          "query": "crm for small business",
+          "value": 80,
+          "label": "+80%"
+        },
+        {
+          "query": "free crm",
+          "value": 60,
+          "label": "+60%"
+        },
+        {
+          "query": "salesforce",
+          "value": 50,
+          "label": "+50%"
+        },
+        {
+          "query": "microsoft crm",
+          "value": 40,
+          "label": "+40%"
+        }
+      ]
+    },
+    "scrapedAt": "2026-10-18T03:42:34.392Z"
+  },
+  {
+    "type": "keyword",
+    "keyword": "erp",
+    "comparedWith": [
+      "crm"
+    ],
+    "geo": "US",
+    "timeRange": "today 12-m",
+    "searchType": "web",
+    "category": 0,
+    "trendsUrl": "https://trends.google.com/trends/explore?q=crm%2Cerp&geo=US&date=today+12-m",
+    "insights": {
+      "averageInterest": 34.2,
+      "latestInterest": 23,
+      "peakInterest": 66,
+      "peakDate": "2026-06-07",
+      "recentChangePct": -45,
+      "trend": "falling"
+    },
+    "interestOverTime": [
+      {
+        "date": "2025-10-12",
+        "label": "Oct 12 – 18, 2025",
+        "value": 22,
+        "isPartial": false
+      },
+      {
+        "date": "2025-10-19",
+        "label": "Oct 19 – 25, 2025",
+        "value": 24,
+        "isPartial": false
+      },
+      {
+        "date": "2025-10-26",
+        "label": "Oct 26 – Nov 1, 2025",
+        "value": 24,
+        "isPartial": false
+      },
+      {
+        "date": "2025-11-02",
+        "label": "Nov 2 – 8, 2025",
+        "value": 27,
+        "isPartial": false
+      },
+      {
+        "date": "2025-11-09",
+        "label": "Nov 9 – 15, 2025",
+        "value": 28,
+        "isPartial": false
+      },
+      {
+        "date": "2025-11-16",
+        "label": "Nov 16 – 22, 2025",
+        "value": 26,
+        "isPartial": false
+      },
+      {
+        "date": "2025-11-23",
+        "label": "Nov 23 – 29, 2025",
+        "value": 20,
+        "isPartial": false
+      },
+      {
+        "date": "2025-11-30",
+        "label": "Nov 30 – Dec 6, 2025",
+        "value": 24,
+        "isPartial": false
+      },
+      {
+        "date": "2025-12-07",
+        "label": "Dec 7 – 13, 2025",
+        "value": 25,
+        "isPartial": false
+      },
+      {
+        "date": "2025-12-14",
+        "label": "Dec 14 – 20, 2025",
+        "value": 23,
+        "isPartial": false
+      },
+      {
+        "date": "2025-12-21",
+        "label": "Dec 21 – 27, 2025",
+        "value": 17,
+        "isPartial": false
+      },
+      {
+        "date": "2025-12-28",
+        "label": "Dec 28, 2025 – Jan 3, 2026",
+        "value": 17,
+        "isPartial": false
+      },
+      {
+        "date": "2026-01-04",
+        "label": "Jan 4 – 10, 2026",
+        "value": 24,
+        "isPartial": false
+      },
+      {
+        "date": "2026-01-11",
+        "label": "Jan 11 – 17, 2026",
+        "value": 30,
+        "isPartial": false
+      },
+      {
+        "date": "2026-01-18",
+        "label": "Jan 18 – 24, 2026",
+        "value": 32,
+        "isPartial": false
+      },
+      {
+        "date": "2026-01-25",
+        "label": "Jan 25 – 31, 2026",
+        "value": 35,
+        "isPartial": false
+      },
+      {
+        "date": "2026-02-01",
+        "label": "Feb 1 – 7, 2026",
+        "value": 36,
+        "isPartial": false
+      },
+      {
+        "date": "2026-02-08",
+        "label": "Feb 8 – 14, 2026",
+        "value": 41,
+        "isPartial": false
+      },
+      {
+        "date": "2026-02-15",
+        "label": "Feb 15 – 21, 2026",
+        "value": 40,
+        "isPartial": false
+      },
+      {
+        "date": "2026-02-22",
+        "label": "Feb 22 – 28, 2026",
+        "value": 44,
+        "isPartial": false
+      },
+      {
+        "date": "2026-03-01",
+        "label": "Mar 1 – 7, 2026",
+        "value": 43,
+        "isPartial": false
+      },
+      {
+        "date": "2026-03-08",
+        "label": "Mar 8 – 14, 2026",
+        "value": 38,
+        "isPartial": false
+      },
+      {
+        "date": "2026-03-15",
+        "label": "Mar 15 – 21, 2026",
+        "value": 45,
+        "isPartial": false
+      },
+      {
+        "date": "2026-03-22",
+        "label": "Mar 22 – 28, 2026",
+        "value": 41,
+        "isPartial": false
+      },
+      {
+        "date": "2026-03-29",
+        "label": "Mar 29 – Apr 4, 2026",
+        "value": 41,
+        "isPartial": false
+      },
+      {
+        "date": "2026-04-05",
+        "label": "Apr 5 – 11, 2026",
+        "value": 47,
+        "isPartial": false
+      },
+      {
+        "date": "2026-04-12",
+        "label": "Apr 12 – 18, 2026",
+        "value": 46,
+        "isPartial": false
+      },
+      {
+        "date": "2026-04-19",
+        "label": "Apr 19 – 25, 2026",
+        "value": 42,
+        "isPartial": false
+      },
+      {
+        "date": "2026-04-26",
+        "label": "Apr 26 – May 2, 2026",
+        "value": 45,
+        "isPartial": false
+      },
+      {
+        "date": "2026-05-03",
+        "label": "May 3 – 9, 2026",
+        "value": 44,
+        "isPartial": false
+      },
+      {
+        "date": "2026-05-10",
+        "label": "May 10 – 16, 2026",
+        "value": 56,
+        "isPartial": false
+      },
+      {
+        "date": "2026-05-17",
+        "label": "May 17 – 23, 2026",
+        "value": 41,
+        "isPartial": false
+      },
+      {
+        "date": "2026-05-24",
+        "label": "May 24 – 30, 2026",
+        "value": 41,
+        "isPartial": false
+      },
+      {
+        "date": "2026-05-31",
+        "label": "May 31 – Jun 6, 2026",
+        "value": 50,
+        "isPartial": false
+      },
+      {
+        "date": "2026-06-07",
+        "label": "Jun 7 – 13, 2026",
+        "value": 66,
+        "isPartial": false
+      },
+      {
+        "date": "2026-06-14",
+        "label": "Jun 14 – 20, 2026",
+        "value": 48,
+        "isPartial": false
+      },
+      {
+        "date": "2026-06-21",
+        "label": "Jun 21 – 27, 2026",
+        "value": 59,
+        "isPartial": false
+      },
+      {
+        "date": "2026-06-28",
+        "label": "Jun 28 – Jul 4, 2026",
+        "value": 41,
+        "isPartial": false
+      },
+      {
+        "date": "2026-07-05",
+        "label": "Jul 5 – 11, 2026",
+        "value": 52,
+        "isPartial": false
+      },
+      {
+        "date": "2026-07-12",
+        "label": "Jul 12 – 18, 2026",
+        "value": 32,
+        "isPartial": false
+      },
+      {
+        "date": "2026-07-19",
+        "label": "Jul 19 – 25, 2026",
+        "value": 32,
+        "isPartial": false
+      },
+      {
+        "date": "2026-07-26",
+        "label": "Jul 26 – Aug 1, 2026",
+        "value": 29,
+        "isPartial": false
+      },
+      {
+        "date": "2026-08-02",
+        "label": "Aug 2 – 8, 2026",
+        "value": 31,
+        "isPartial": false
+      },
+      {
+        "date": "2026-08-09",
+        "label": "Aug 9 – 15, 2026",
+        "value": 32,
+        "isPartial": false
+      },
+      {
+        "date": "2026-08-16",
+        "label": "Aug 16 – 22, 2026",
+        "value": 30,
+        "isPartial": false
+      },
+      {
+        "date": "2026-08-23",
+        "label": "Aug 23 – 29, 2026",
+        "value": 26,
+        "isPartial": false
+      },
+      {
+        "date": "2026-08-30",
+        "label": "Aug 30 – Sep 5, 2026",
+        "value": 22,
+        "isPartial": false
+      },
+      {
+        "date": "2026-09-06",
+        "label": "Sep 6 – 12, 2026",
+        "value": 23,
+        "isPartial": false
+      },
+      {
+        "date": "2026-09-13",
+        "label": "Sep 13 – 19, 2026",
+        "value": 23,
+        "isPartial": false
+      },
+      {
+        "date": "2026-09-20",
+        "label": "Sep 20 – 26, 2026",
+        "value": 24,
+        "isPartial": false
+      },
+      {
+        "date": "2026-09-27",
+        "label": "Sep 27 – Oct 3, 2026",
+        "value": 22,
+        "isPartial": false
+      },
+      {
+        "date": "2026-10-04",
+        "label": "Oct 4 – 10, 2026",
+        "value": 21,
+        "isPartial": false
+      },
+      {
+        "date": "2026-10-11",
+        "label": "Oct 11 – 17, 2026",
+        "value": 23,
+        "isPartial": false
+      },
+      {
+        "date": "2026-10-18",
+        "label": "Oct 18 – 24, 2026",
+        "value": 12,
+        "isPartial": true
+      }
+    ],
+    "interestByRegion": [
+      {
+        "geoCode": "US-RI",
+        "geoName": "Rhode Island",
+        "value": 40
+      },
+      {
+        "geoCode": "US-WI",
+        "geoName": "Wisconsin",
+        "value": 40
+      },
+      {
+        "geoCode": "US-AK",
+        "geoName": "Alaska",
+        "value": 40
+      },
+      {
+        "geoCode": "US-MN",
+        "geoName": "Minnesota",
+        "value": 39
+      },
+      {
+        "geoCode": "US-NH",
+        "geoName": "New Hampshire",
+        "value": 39
+      },
+      {
+        "geoCode": "US-AR",
+        "geoName": "Arkansas",
+        "value": 38
+      },
+      {
+        "geoCode": "US-ME",
+        "geoName": "Maine",
+        "value": 38
+      },
+      {
+        "geoCode": "US-MT",
+        "geoName": "Montana",
+        "value": 38
+      },
+      {
+        "geoCode": "US-WY",
+        "geoName": "Wyoming",
+        "value": 37
+      },
+      {
+        "geoCode": "US-UT",
+        "geoName": "Utah",
+        "value": 37
+      },
+      {
+        "geoCode": "US-MI",
+        "geoName": "Michigan",
+        "value": 37
+      },
+      {
+        "geoCode": "US-OH",
+        "geoName": "Ohio",
+        "value": 37
+      },
+      {
+        "geoCode": "US-VT",
+        "geoName": "Vermont",
+        "value": 37
+      },
+      {
+        "geoCode": "US-ID",
+        "geoName": "Idaho",
+        "value": 37
+      },
+      {
+        "geoCode": "US-WV",
+        "geoName": "West Virginia",
+        "value": 37
+      },
+      {
+        "geoCode": "US-DC",
+        "geoName": "District of Columbia",
+        "value": 36
+      },
+      {
+        "geoCode": "US-IL",
+        "geoName": "Illinois",
+        "value": 36
+      },
+      {
+        "geoCode": "US-NE",
+        "geoName": "Nebraska",
+        "value": 36
+      },
+      {
+        "geoCode": "US-SD",
+        "geoName": "South Dakota",
+        "value": 36
+      },
+      {
+        "geoCode": "US-IA",
+        "geoName": "Iowa",
+        "value": 36
+      },
+      {
+        "geoCode": "US-NM",
+        "geoName": "New Mexico",
+        "value": 36
+      },
+      {
+        "geoCode": "US-MS",
+        "geoName": "Mississippi",
+        "value": 36
+      },
+      {
+        "geoCode": "US-ND",
+        "geoName": "North Dakota",
+        "value": 36
+      },
+      {
+        "geoCode": "US-NY",
+        "geoName": "New York",
+        "value": 35
+      },
+      {
+        "geoCode": "US-TX",
+        "geoName": "Texas",
+        "value": 35
+      },
+      {
+        "geoCode": "US-LA",
+        "geoName": "Louisiana",
+        "value": 35
+      },
+      {
+        "geoCode": "US-PA",
+        "geoName": "Pennsylvania",
+        "value": 35
+      },
+      {
+        "geoCode": "US-MO",
+        "geoName": "Missouri",
+        "value": 35
+      },
+      {
+        "geoCode": "US-KY",
+        "geoName": "Kentucky",
+        "value": 35
+      },
+      {
+        "geoCode": "US-GA",
+        "geoName": "Georgia",
+        "value": 34
+      },
+      {
+        "geoCode": "US-VA",
+        "geoName": "Virginia",
+        "value": 34
+      },
+      {
+        "geoCode": "US-TN",
+        "geoName": "Tennessee",
+        "value": 34
+      },
+      {
+        "geoCode": "US-DE",
+        "geoName": "Delaware",
+        "value": 34
+      },
+      {
+        "geoCode": "US-SC",
+        "geoName": "South Carolina",
+        "value": 34
+      },
+      {
+        "geoCode": "US-IN",
+        "geoName": "Indiana",
+        "value": 34
+      },
+      {
+        "geoCode": "US-CA",
+        "geoName": "California",
+        "value": 33
+      },
+      {
+        "geoCode": "US-CT",
+        "geoName": "Connecticut",
+        "value": 33
+      },
+      {
+        "geoCode": "US-NC",
+        "geoName": "North Carolina",
+        "value": 33
+      },
+      {
+        "geoCode": "US-OK",
+        "geoName": "Oklahoma",
+        "value": 33
+      },
+      {
+        "geoCode": "US-CO",
+        "geoName": "Colorado",
+        "value": 32
+      },
+      {
+        "geoCode": "US-MA",
+        "geoName": "Massachusetts",
+        "value": 32
+      },
+      {
+        "geoCode": "US-WA",
+        "geoName": "Washington",
+        "value": 32
+      },
+      {
+        "geoCode": "US-AZ",
+        "geoName": "Arizona",
+        "value": 32
+      },
+      {
+        "geoCode": "US-OR",
+        "geoName": "Oregon",
+        "value": 32
+      },
+      {
+        "geoCode": "US-HI",
+        "geoName": "Hawaii",
+        "value": 32
+      },
+      {
+        "geoCode": "US-NJ",
+        "geoName": "New Jersey",
+        "value": 31
+      },
+      {
+        "geoCode": "US-FL",
+        "geoName": "Florida",
+        "value": 31
+      },
+      {
+        "geoCode": "US-NV",
+        "geoName": "Nevada",
+        "value": 31
+      },
+      {
+        "geoCode": "US-AL",
+        "geoName": "Alabama",
+        "value": 31
+      },
+      {
+        "geoCode": "US-KS",
+        "geoName": "Kansas",
+        "value": 30
+      },
+      {
+        "geoCode": "US-MD",
+        "geoName": "Maryland",
+        "value": 29
+      }
+    ],
+    "relatedQueries": {
+      "top": [
+        {
+          "query": "erp system",
+          "value": 100,
+          "label": "100"
+        },
+        {
+          "query": "what is erp",
+          "value": 97,
+          "label": "97"
+        },
+        {
+          "query": "software erp",
+          "value": 86,
+          "label": "86"
+        },
+        {
+          "query": "erp price",
+          "value": 57,
+          "label": "57"
+        },
+        {
+          "query": "erp business",
+          "value": 55,
+          "label": "55"
+        },
+        {
+          "query": "erp systems",
+          "value": 52,
+          "label": "52"
+        },
+        {
+          "query": "sap",
+          "value": 48,
+          "label": "48"
+        },
+        {
+          "query": "sap erp",
+          "value": 47,
+          "label": "47"
+        },
+        {
+          "query": "what is a erp",
+          "value": 40,
+          "label": "40"
+        },
+        {
+          "query": "erp accounting",
+          "value": 39,
+          "label": "39"
+        },
+        {
+          "query": "erp news",
+          "value": 37,
+          "label": "37"
+        },
+        {
+          "query": "oracle erp",
+          "value": 37,
+          "label": "37"
+        },
+        {
+          "query": "cloud erp",
+          "value": 36,
+          "label": "36"
+        },
+        {
+          "query": "oracle",
+          "value": 36,
+          "label": "36"
+        },
+        {
+          "query": "erp meaning",
+          "value": 34,
+          "label": "34"
+        },
+        {
+          "query": "erp integration",
+          "value": 33,
+          "label": "33"
+        },
+        {
+          "query": "netsuite erp",
+          "value": 27,
+          "label": "27"
+        },
+        {
+          "query": "netsuite",
+          "value": 27,
+          "label": "27"
+        },
+        {
+          "query": "erp therapy",
+          "value": 27,
+          "label": "27"
+        },
+        {
+          "query": "manufacturing erp",
+          "value": 27,
+          "label": "27"
+        },
+        {
+          "query": "microsoft erp",
+          "value": 24,
+          "label": "24"
+        },
+        {
+          "query": "erp crm",
+          "value": 23,
+          "label": "23"
+        },
+        {
+          "query": "erp implementation",
+          "value": 23,
+          "label": "23"
+        },
+        {
+          "query": "crm",
+          "value": 22,
+          "label": "22"
+        },
+        {
+          "query": "erp companies",
+          "value": 22,
+          "label": "22"
+        }
+      ],
+      "rising": [
+        {
+          "query": "gardening",
+          "value": 400,
+          "label": "+400%"
+        },
+        {
+          "query": "swimming",
+          "value": 350,
+          "label": "+350%"
+        },
+        {
+          "query": "museums",
+          "value": 350,
+          "label": "+350%"
+        },
+        {
+          "query": "erp news",
+          "value": 300,
+          "label": "+300%"
+        },
+        {
+          "query": "erp price",
+          "value": 250,
+          "label": "+250%"
+        },
+        {
+          "query": "erp international",
+          "value": 200,
+          "label": "+200%"
+        },
+        {
+          "query": "erp accounting",
+          "value": 200,
+          "label": "+200%"
+        },
+        {
+          "query": "netsuite erp",
+          "value": 160,
+          "label": "+160%"
+        },
+        {
+          "query": "netsuite",
+          "value": 140,
+          "label": "+140%"
+        },
+        {
+          "query": "erp training",
+          "value": 90,
+          "label": "+90%"
+        },
+        {
+          "query": "microsoft erp",
+          "value": 90,
+          "label": "+90%"
+        },
+        {
+          "query": "erp business",
+          "value": 70,
+          "label": "+70%"
+        },
+        {
+          "query": "erp integration",
+          "value": 60,
+          "label": "+60%"
+        },
+        {
+          "query": "erp ocd",
+          "value": 60,
+          "label": "+60%"
+        },
+        {
+          "query": "manufacturing erp",
+          "value": 50,
+          "label": "+50%"
+        },
+        {
+          "query": "cloud erp",
+          "value": 50,
+          "label": "+50%"
+        },
+        {
+          "query": "oracle erp",
+          "value": 40,
+          "label": "+40%"
+        },
+        {
+          "query": "sap",
+          "value": 40,
+          "label": "+40%"
+        },
+        {
+          "query": "sap erp",
+          "value": 40,
+          "label": "+40%"
+        }
+      ]
+    },
+    "scrapedAt": "2026-10-18T03:42:34.787Z"
+  }
+]

@@ -1,0 +1,34 @@
+[build-system]
+requires = ["hatchling>=1.18"]
+build-backend = "hatchling.build"
+
+[project]
+name = "rimulabs-trends"
+version = "0.1.0"
+description = "Drop-in replacement for pytrends' TrendReq, backed by a maintained Google Trends API (no more 429 errors)."
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+requires-python = ">=3.8"
+authors = [{ name = "Rimu Labs", email = "support@rimulabs.com" }]
+keywords = ["pytrends", "google trends", "google trends api", "trends", "seo", "keyword research", "pandas"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Topic :: Internet :: WWW/HTTP",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+]
+dependencies = ["requests>=2.20", "pandas>=1.0"]
+
+[project.urls]
+Homepage = "https://rimulabs.com/guides/pytrends-alternative"
+Documentation = "https://rimulabs.com/guides/pytrends-alternative"
+"Hosted API" = "https://apify.com/rimulabs/google-trends-insights"
+Source = "https://github.com/Rimu-Labs-NZ/rimulabs-trends"
+Issues = "https://github.com/Rimu-Labs-NZ/rimulabs-trends/issues"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/rimulabs_trends"]
